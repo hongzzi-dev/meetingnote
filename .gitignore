@@ -1,3 +1,12 @@
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+
+# 데이터 · 로그
+*.db
+*.log
+
 # 비밀 키
 .env
 .env.*
