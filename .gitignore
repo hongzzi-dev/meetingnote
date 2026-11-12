@@ -1,0 +1,7 @@
+# 비밀 키
+.env
+.env.*
+!.env.example
+
+# todo-guard 실행 기록 (세션마다 바뀜)
+.claude/todo-guard/
