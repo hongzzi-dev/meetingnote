@@ -14,3 +14,6 @@ __pycache__/
 
 # todo-guard 실행 기록 (세션마다 바뀜)
 .claude/todo-guard/
+
+# Playwright 작업 기록
+.playwright-mcp/
